@@ -29,6 +29,6 @@ MiniAdminPanel is a Laravel test project.
 
 ## Download
 
-<p align="center"><a href="https://codelabs.hu/dl/files/MiniAdminPanel.rar"><img src="Download as .rar" width="400"></a></p>
+<p align="center"><a href="https://codelabs.hu/dl/files/MiniAdminPanel.rar">Download as .rar</a></p>
 
 
